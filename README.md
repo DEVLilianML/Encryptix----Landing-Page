@@ -1,2 +1,4 @@
-# Encryptix
-This repo consist of all the task assigned to me in the internship
+# Landing Page
+
+This repo consist of the Tonkeeper landing page designed for the users to know its features
+
